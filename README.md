@@ -1,4 +1,4 @@
-# educador-java
+# educador-java-notebooklm
 
 Projeto focado no ensino da linguagem Java. 
 
